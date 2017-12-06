@@ -17,5 +17,6 @@ long long int main(){
 		}
 		printf("\n");
 	}
-	return 0;
-}
+
+
+	/*asd*/
